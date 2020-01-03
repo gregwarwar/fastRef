@@ -1,0 +1,5 @@
+mkdir git3
+cd git3
+git init
+git clone https://github.com/gregwarwar/fastRef.git
+
