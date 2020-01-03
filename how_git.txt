@@ -1,8 +1,7 @@
 https://git-scm.com/docs/user-manual#git-quick-start
 
-mkdir git3
-cd git3
-git init
+mkdir git4
+cd git4
 git clone https://github.com/gregwarwar/fastRef.git
 
 git status
