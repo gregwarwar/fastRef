@@ -3,3 +3,24 @@ cd git3
 git init
 git clone https://github.com/gregwarwar/fastRef.git
 
+git status
+
+git add how_git.txt
+
+git status
+
+git commit -m "Adding first cut how_git.txt"
+
+git status
+
+git push origin master
+
+git status
+
+(to discard changes to a file)
+
+git checkout -- how_git.txt
+
+
+
+git status
