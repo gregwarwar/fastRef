@@ -1,3 +1,5 @@
+https://git-scm.com/docs/user-manual#git-quick-start
+
 mkdir git3
 cd git3
 git init
