@@ -1,5 +1,22 @@
 https://git-scm.com/docs/user-manual#git-quick-start
 
+
+
+*********************************************
+ 2204  cp -r ~/wwmax .
+ 2205  cd wwmax
+ 2207  git init
+ 2208  git status
+ 2209  git add .
+ 2210  git status
+ 2211  git commit -a -m "initial maxima"
+ 2218  git remote add origin https://github.com/gregwarwar/wwmax.git
+ 2220  git push -u origin master
+
+ From now on, I think you should just have to do the commit and the push
+*********************************************
+
+
 mkdir git4
 cd git4
 git clone https://github.com/gregwarwar/fastRef.git
