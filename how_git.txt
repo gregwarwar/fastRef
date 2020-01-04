@@ -1,5 +1,10 @@
 https://git-scm.com/docs/user-manual#git-quick-start
 
+Basically, just do a 
+  git pull --dry-run
+  git push --dry-run
+
+  git push -u origin master
 
 
 *********************************************
